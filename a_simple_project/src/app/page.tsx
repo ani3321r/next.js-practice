@@ -1,4 +1,5 @@
 import FeaturedCars from "@/components/FeaturedCars";
+import GridCards from "@/components/GridCards";
 import HeroSection from "@/components/HeroSection";
 import ScrAnime from "@/components/ScrAnime";
 
@@ -9,6 +10,7 @@ export default function Home() {
       <HeroSection />
       <FeaturedCars />
       <ScrAnime />
+      <GridCards />
     </main>
   );
 }
