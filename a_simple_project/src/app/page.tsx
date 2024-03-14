@@ -3,6 +3,7 @@ import GridCards from "@/components/GridCards";
 import HeroSection from "@/components/HeroSection";
 import ScrAnime from "@/components/ScrAnime";
 import SomeClassics from "@/components/SomeClassics";
+import TooltipProches from "@/components/TooltipPorches";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <ScrAnime />
       <GridCards />
       <SomeClassics />
+      <TooltipProches />
     </main>
   );
 }
