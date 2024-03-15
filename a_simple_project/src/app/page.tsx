@@ -1,4 +1,5 @@
 import FeaturedCars from "@/components/FeaturedCars";
+import Footer from "@/components/Footer";
 import GridCards from "@/components/GridCards";
 import HeroSection from "@/components/HeroSection";
 import ScrAnime from "@/components/ScrAnime";
@@ -15,6 +16,7 @@ export default function Home() {
       <GridCards />
       <SomeClassics />
       <TooltipProches />
+      <Footer />
     </main>
   );
 }
