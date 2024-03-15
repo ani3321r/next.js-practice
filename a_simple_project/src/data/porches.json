@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "911 GT3",
+      "slug": "911-GT3",
+      "description": "Designed for the track but suitable for the road, the 911 GT3 is a high-performance sports car that excels in precision handling and agility.",
+      "price": 3.51,
+      "topSpeed": "320km/hr",
+      "isFeatured": true,
+      "image": "/products/911 GT3.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Porsche 911 Carrera",
+      "slug": "Porsche-911-Carrera",
+      "description": "The iconic 911 Carrera is a symbol of Porsche's timeless design and exhilarating performance. With its rear-engine layout and distinctive silhouette, it offers a thrilling driving experience combined with luxurious comfort.",
+      "price": 2.01,
+      "topSpeed": "293 Km/hr",
+      "isFeatured": true,
+      "image": "/products/carrera.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Porsche 718 Cayman",
+      "slug": "Porsche-718-Cayman",
+      "description": "The 718 Cayman is a mid-engine sports car that delivers agile handling and precise steering. Its sleek profile and potent turbocharged engine make it a favorite among driving enthusiasts seeking pure driving pleasure.",
+      "price": 1.48,
+      "topSpeed": "285 Km/hr",
+      "isFeatured": false,
+      "image": "/products/718 cayman.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Porsche Panamera",
+      "slug": "Porsche-Panamera",
+      "description": "Blending sports car performance with sedan practicality, the Panamera redefines the luxury grand tourer segment. Its lavish interior, advanced technology features, and powerful engines ensure a refined yet dynamic driving experience.",
+      "price": 1.68,
+      "topSpeed": "272 Km/hr",
+      "isFeatured": false,
+      "image": "/products/panamera.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Porsche Taycan",
+      "slug": "Porsche-Taycan",
+      "description": "As Porsche's first all-electric vehicle, the Taycan represents the future of high-performance electric mobility. With instant torque, lightning-fast acceleration, and cutting-edge technology, it delivers a thrilling driving experience with zero emissions.",
+      "price": 1.61,
+      "topSpeed": "230 Km/hr",
+      "isFeatured": false,
+      "image": "/products/taycan.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Porsche Cayenne",
+      "slug": "Porsche-Cayenne",
+      "description": "The Cayenne is Porsche's luxury SUV offering, combining sporty handling with spaciousness and versatility. Whether conquering off-road terrain or cruising on the highway, it offers a blend of performance, comfort, and refinement.",
+      "price": 1.36,
+      "topSpeed": "248 Km/hr",
+      "isFeatured": true,
+      "image": "/products/cayenne.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Porsche Macan",
+      "slug": "Porsche-Macan",
+      "description": "he Macan is a compact luxury SUV that embodies Porsche's sporty DNA in a practical package. With its athletic stance, responsive handling, and upscale interior, it offers a dynamic driving experience tailored for urban adventures.",
+      "price": 1.53,
+      "topSpeed": "232 Km/hr",
+      "isFeatured": false,
+      "image": "/products/macan.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Porsche 718 Boxster",
+      "slug": "Porsche-718-Boxster",
+      "description": "The 718 Boxster is a convertible sports car that delivers open-top driving exhilaration paired with impeccable performance. Its mid-engine layout, balanced chassis, and refined interior make it an ideal choice for those seeking the ultimate driving pleasure.",
+      "price": 1.52,
+      "topSpeed": "275 Km/hr",
+      "isFeatured": true,
+      "image": "/products/boxster.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Porsche 911 Turbo S",
+      "slug": "Porsche-911-Turbo-S",
+      "description": "The 911 Turbo S is the pinnacle of Porsche's performance lineup, offering mind-blowing acceleration and top-tier handling. With its legendary status and cutting-edge technology, it represents the ultimate expression of Porsche's engineering prowess.",
+      "price": 3.35,
+      "topSpeed": "330 Km/hr",
+      "isFeatured": false,
+      "image": "/products/911 turbo s.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Porsche 911 Targa",
+      "slug": "Porsche-911-Targa",
+      "description": "The 911 Targa combines the best of both worlds with its unique retractable roof design, offering the exhilaration of open-air driving without compromising the iconic 911 silhouette. With timeless styling and dynamic performance, it's a true automotive masterpiece.",
+      "price": 2.11,
+      "topSpeed": "289 Km/hr",
+      "isFeatured": true,
+      "image": "/products/911 targa.jpg"
+    }
+  ]
+}
